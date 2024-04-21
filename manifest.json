@@ -1,4 +1,5 @@
 {
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "src": "misc/icon192.png",
@@ -31,9 +32,8 @@
    "sizes": "16x16"
   }
  ],
- "name": "Projeto Morro do Farol",
  "background_color": "#FFFFFF",
+ "name": "Projeto Morro do Farol",
  "start_url": "index.htm",
- "display": "fullscreen",
- "theme_color": "#FFFFFF"
+ "display": "fullscreen"
 }
