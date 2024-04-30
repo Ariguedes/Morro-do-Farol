@@ -306,14 +306,14 @@ panorama_BC086958_B07F_3744_41E0_16E58A488756.label = cafe_varanda
 video_A02CB44C_B083_3D5C_41D5_A7315DEF3EB5.label = naufragio
 
 ### Video
-videolevel_8A74F22C_305C_1939_41C7_D791F9BBB17A.posterURL = media/video_A02CB44C_B083_3D5C_41D5_A7315DEF3EB5_poster_pt.jpg
-videolevel_8A74F22C_305C_1939_41C7_D791F9BBB17A.url = media/video_A02CB44C_B083_3D5C_41D5_A7315DEF3EB5_pt.mp4
-videolevel_8A7A22A1_305C_192B_41A5_2971CF056B1F.posterURL = media/video_A1227C58_B087_0D44_41E5_B324867EB2D7_poster_pt.jpg
-videolevel_8A7A22A1_305C_192B_41A5_2971CF056B1F.url = media/video_A1227C58_B087_0D44_41E5_B324867EB2D7_pt.mp4
-videolevel_8A7031B8_305C_1B19_41C5_9CFEA8FD63CA.posterURL = media/video_A1F1EDD4_AF8E_770A_41C9_2C9F50320410_poster_pt.jpg
-videolevel_8A7031B8_305C_1B19_41C5_9CFEA8FD63CA.url = media/video_A1F1EDD4_AF8E_770A_41C9_2C9F50320410_pt.mp4
-videolevel_8AC4D54E_305C_1B79_41B7_3103599F1EF5.posterURL = media/video_CF36BE68_D9E5_5DDE_4161_571857F185C2_poster_pt.jpg
-videolevel_8AC4D54E_305C_1B79_41B7_3103599F1EF5.url = media/video_CF36BE68_D9E5_5DDE_4161_571857F185C2_pt.mp4
+videolevel_E52EA73F_3064_0717_41A9_3893577B8B82.posterURL = media/video_A02CB44C_B083_3D5C_41D5_A7315DEF3EB5_poster_pt.jpg
+videolevel_E52EA73F_3064_0717_41A9_3893577B8B82.url = media/video_A02CB44C_B083_3D5C_41D5_A7315DEF3EB5_pt.mp4
+videolevel_E52827BA_3064_0719_41C7_866B59D375B7.posterURL = media/video_A1227C58_B087_0D44_41E5_B324867EB2D7_poster_pt.jpg
+videolevel_E52827BA_3064_0719_41C7_866B59D375B7.url = media/video_A1227C58_B087_0D44_41E5_B324867EB2D7_pt.mp4
+videolevel_E52396C8_3064_F979_4190_FA2BA5093FC4.posterURL = media/video_A1F1EDD4_AF8E_770A_41C9_2C9F50320410_poster_pt.jpg
+videolevel_E52396C8_3064_F979_4190_FA2BA5093FC4.url = media/video_A1F1EDD4_AF8E_770A_41C9_2C9F50320410_pt.mp4
+videolevel_E5801A96_3064_09E9_41C6_9977D13DFF6F.posterURL = media/video_CF36BE68_D9E5_5DDE_4161_571857F185C2_poster_pt.jpg
+videolevel_E5801A96_3064_09E9_41C6_9977D13DFF6F.url = media/video_CF36BE68_D9E5_5DDE_4161_571857F185C2_pt.mp4
 
 ### Video Subtitles
 
@@ -564,9 +564,9 @@ Image_EFFEB8D8_FC9F_887C_41C7_3C5C3970B722.url = skin/Image_EFFEB8D8_FC9F_887C_4
 
 ### Multiline Text
 HTMLText_3DF10A63_2FBC_092F_41B7_0EFA45F37311.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Tahoma, Geneva, sans-serif;"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Tahoma, Geneva, sans-serif;"><B>{{subtitle}}</B></SPAN></SPAN></DIV></div>
+HTMLText_6C0BB391_2FAC_FFEB_4183_B6AAEAC3D510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>{{subtitle}}</B></SPAN></SPAN></DIV></div>
 HTMLText_A18E7DDC_B0C9_F5A1_41D8_1FB0AAB4D174.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 HTMLText_A18E7DDC_B0C9_F5A1_41D8_1FB0AAB4D174_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_6C0BB391_2FAC_FFEB_4183_B6AAEAC3D510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>{{subtitle}}</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
