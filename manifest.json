@@ -31,9 +31,9 @@
    "sizes": "16x16"
   }
  ],
- "name": "Projeto Morro do Farol",
- "background_color": "#FFFFFF",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "name": "Projeto Morro do Farol",
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF"
 }
